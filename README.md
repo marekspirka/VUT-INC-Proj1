@@ -1,1 +1,1 @@
-# VUT-INC-Proj1
+# Project to INC 
